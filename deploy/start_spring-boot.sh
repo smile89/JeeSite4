@@ -1,4 +1,5 @@
 #!/bin/bash -ilex
+source ~/.bash_profile
 
 ## 检查系统类型
 export os_type=`uname`
