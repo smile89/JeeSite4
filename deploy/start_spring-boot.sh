@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash -ilex
 
 ## 检查系统类型
 export os_type=`uname`
